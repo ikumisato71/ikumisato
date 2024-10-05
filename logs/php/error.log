@@ -52,3 +52,5 @@
 [20-Jul-2024 20:28:34 UTC] PHP Warning:  Undefined array key "mediaFloat" in /Users/apple/Local Sites/ikumisato/app/public/wp-content/plugins/vk-all-in-one-expansion-unit/inc/other-widget/widget-profile.php on line 192
 [21-Jul-2024 20:08:31 UTC] フックの cron 再予約イベントエラー: wpforms_weekly_entries_count_cron、エラーコード: could_not_set、エラーメッセージ: Cron イベントのリストを保存できません。、データ: {"schedule":"wpforms_weekly_entries_count","args":[],"interval":-18511}
 [21-Jul-2024 20:19:59 UTC] フックの cron 再予約イベントエラー: wpforms_weekly_entries_count_cron、エラーコード: could_not_set、エラーメッセージ: Cron イベントのリストを保存できません。、データ: {"schedule":"wpforms_weekly_entries_count","args":[],"interval":-19199}
+[02-Oct-2024 00:57:14 UTC] PHP Warning:  Undefined array key "url" in /Users/apple/Local Sites/ikumisato/app/public/wp-content/plugins/wpforms-lite/src/Forms/IconChoices.php on line 127
+[02-Oct-2024 00:57:14 UTC] PHP Warning:  Undefined array key "path" in /Users/apple/Local Sites/ikumisato/app/public/wp-content/plugins/wpforms-lite/src/Forms/IconChoices.php on line 128
